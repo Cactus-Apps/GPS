@@ -1,4 +1,7 @@
+![Alt-Text](./bild.png)
+
 # GPS
+
 Your smart navigation app
 
 ## Release date
