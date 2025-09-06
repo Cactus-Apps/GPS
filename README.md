@@ -1,8 +1,21 @@
 ![Alt-Text](./banner.jpeg)
 
 # GPS
+Your smart navigation App.
 
-Your smart navigation app
+## What is GPS
 
-## Release date
-This app will be published on ( status 15.8 ) 6.9.2025.
+GPS is a smart navigation app that can be used for hiking or other activities.
+
+## Installation
+
+1. To install GPS, go to Releases and select the latest version. 
+2. Then download the APK file.
+> Apple isn't yet supported. 
+3. After downloading, you can go to your file manager and click on the file you just downloaded
+4. If your smartphone asks you if you want to install the app from an unknown source, press Yes.
+5. Then you can press Install. 
+
+## Troubleshooting
+
+- If you find an error, please report it as an issue.
