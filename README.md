@@ -21,4 +21,4 @@ GPS is a smart navigation app that can be used for hiking or other activities.
 - If you find an error, please report it as an issue.
 
 ## Apk File
-is comming 20:00
+is comming Sunday 10:00 GMT
