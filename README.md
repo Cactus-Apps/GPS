@@ -1,4 +1,4 @@
-![Alt-Text](./bild.png)
+![Alt-Text](./banner.jpeg)
 
 # GPS
 
