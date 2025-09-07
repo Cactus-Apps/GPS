@@ -20,5 +20,6 @@ GPS is a smart navigation app that can be used for hiking or other activities.
 
 - If you find an error, please report it as an issue.
 
-## Apk File
-is comming Sunday 10:00 GMT
+## License
+This project is licensed under the GNU General Public License v3.0 (GPLv3).  
+See the [LICENSE](./LICENSE) file for details.
