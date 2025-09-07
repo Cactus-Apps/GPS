@@ -7,8 +7,6 @@ Your smart navigation App.
 
 GPS is a smart navigation app that can be used for hiking or other activities.
 
-![Alt-Text](./examples.png)
-
 ## Installation
 
 1. To install GPS, go to Releases and select the latest version. 
