@@ -7,6 +7,8 @@ Your smart navigation App.
 
 GPS is a smart navigation app that can be used for hiking or other activities.
 
+![⚠️ Warning](https://img.shields.io/badge/Warning-yellow?style=flat-square) The Apk is comming on the 20.9
+
 ## Installation
 
 1. To install GPS, go to Releases and select the latest version. 
