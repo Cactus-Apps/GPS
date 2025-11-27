@@ -1,7 +1,7 @@
 ![Alt-Text](./banner.jpeg)
 
 # GPS
-Your smart navigation App.
+Explore the world
 
 ## What is GPS
 
